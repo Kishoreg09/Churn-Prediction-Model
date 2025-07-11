@@ -5,23 +5,7 @@ This project focuses on predicting customer churn for a bank using machine learn
 ---
 
 ## 📁 Folder Structure
-Churn-Prediction-Project/
-│
-├── 📁 Notebooks/
-│ ├── 1_eda_and_visualization.ipynb
-│ ├── 2_feature_engineering.ipynb
-│ └── 3_model_training_and_evaluation.ipynb
-│
-├── 📁 Models/
-│ └── random_forest_model.pkl
-│
-├── 📁 Data/
-│ ├── Churn_Modelling.csv # Original Dataset
-│ └── processed_churn_data.csv # Cleaned & engineered dataset
-│
-├── 📄 app.py # Streamlit web app
-├── 📄 README.md # Project description
-└── 📄 requirements.txt # List of dependencies
+<pre> Churn-Prediction-Project/ │ ├── 📁 Notebooks/ │ ├── 1_eda_and_visualization.ipynb │ ├── 2_feature_engineering.ipynb │ └── 3_model_training_and_evaluation.ipynb │ ├── 📁 Models/ │ └── random_forest_model.pkl │ ├── 📁 Data/ │ ├── Churn_Modelling.csv # Original Dataset │ └── processed_churn_data.csv # Cleaned & engineered dataset │ ├── 📄 app.py # Streamlit web app ├── 📄 README.md # Project description └── 📄 requirements.txt # List of dependencies </pre>
 
 ---
 
