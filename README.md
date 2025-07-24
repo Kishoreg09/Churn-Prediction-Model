@@ -22,8 +22,8 @@ Churn-Prediction-Project/
 │   └── processed_churn_data.csv         # Cleaned & engineered dataset
 │
 ├── 📄 app.py                             # Streamlit web app
-├── 📄 README.md                          # Project description
-└── 📄 requirements.txt                   # List of dependencies
+└── 📄 README.md                          # Project description
+ 
 ```
 
 ---
